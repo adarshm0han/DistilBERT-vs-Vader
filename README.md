@@ -41,7 +41,7 @@ It fetches real-world news headlines, analyzes them, and displays results via a 
   - `weight_decay = 0.01`  
   - `max_length = 256`  
 - **Reproducibility:** `seed=42`.  
-- **Artifacts:** Model + `label_map.json` saved to `./distilbert_sentiment_model` and uploaded to Hugging Face Hub.  
+- **Artifacts:** Model + `label_map.json` saved to `./distilbert_sentiment_model` and uploaded to Hugging Face Hub. Link- https://huggingface.co/amohan78/distilbert_sentiment_model.  
 
 ---
 
